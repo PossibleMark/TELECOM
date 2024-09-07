@@ -1,0 +1,325 @@
+ul{
+    
+    list-style: none;
+    padding:0;
+    margin:0;
+    overflow:hidden;   
+   }
+   
+   li a{display: block;
+       color:blue;
+       text-decoration: none;
+       padding: 20px;
+   
+       
+   }
+   
+   li{float: right;}
+   
+   li a:hover{
+     
+       color:black;
+   }
+
+   div.logo{
+    position:absolute;
+    top:0;
+    left:0p;
+   }
+
+   div.background{
+    position:absolute;
+    top: 120px;
+    left: 93px;
+   }
+
+   #a{
+    width: 93%;
+    height: 400px;
+   }
+
+   div.tex1{
+    position:absolute;
+    top: 100px;
+    left: 120px;
+   }
+
+   div.tex2{
+    position: absolute;
+    top:250px;
+    left: 250px;
+   }
+
+   #na{
+    font-size: 40px;
+    color:darkcyan;
+   }
+
+   #li{
+    font-size:40px;
+    color:white;
+   }
+
+
+   div.logo2{
+    position:absolute;
+    top:220px;
+    left: 100px;
+    
+   }
+
+   div.mifi{
+    position:absolute;
+    top:250px;
+    left: 700px;
+    z-index: 5;
+   }
+
+   #b{
+    width: 400px;
+   }
+
+   div.table{
+    position: absolute;
+    top:700px;
+    left: 250px;
+   }
+
+  div.board{
+    position:absolute;
+    top: 50px;
+    left: 400px;
+    width: 300px
+  } 
+
+  #p{
+
+   font-size: 20px;
+   color:blueviolet;
+   position:absolute;
+   top: 50px;
+  }
+
+  th{
+    border: 1px solid black;
+    border-bottom: 0;
+    border-right: 0;
+    border-left:0;
+    border-top:0;
+    
+    
+  }
+
+  td{
+    border: 1px solid black;
+    border-bottom: 0;
+    border-right: 0;
+    border-left:0;
+    border-top:0;
+    }
+
+    div.tele{
+      position: absolute;
+      top: 1200px;
+      left: 80px;
+      background-color: azure;
+    }
+
+    div.regu{
+      position: absolute;
+      top: 1200px;
+      left: 400px;
+      background-color: azure;
+    }
+
+    div.unfair{
+      position: absolute;
+      top: 1200px;
+      left: 720px;
+      background-color: azure;
+    }
+
+    div.commi{
+      position: absolute;
+      top: 1200px;
+      left: 1010px;
+      background-color: azure;
+    }
+    
+   #t1{
+    font-size:20px;
+    color:blueviolet
+   } 
+
+   div.img{
+    position:absolute;
+    top:-60px;
+    left:90px;
+   }
+
+   #button{
+    position:absolute;
+    left:90px;
+    border:1px solid white;
+    background-color:darkgreen;
+    border-radius:25px;
+    width: 100px;
+    height:40px;
+   }
+
+   div.tag{
+    position: absolute;
+      top: 1550px;
+      left: 80px;
+      background-color: azure;
+   }
+   div.ta1{
+    position: absolute;
+      top: 1550px;
+      left: 220px;
+      background-color: azure;
+   }
+
+   div.tag1{
+    position: absolute;
+    top: 1700px;
+    left: 80px;
+    background-color: azure;
+   }
+
+   div.ta2{
+    position: absolute;
+      top: 1700px;
+      left: 220px;
+      background-color: azure;
+   }
+
+   div.tag2{
+    position: absolute;
+    top: 1550px;
+    left: 600px;
+    background-color: azure;
+   }
+
+   div.ta3{
+    position: absolute;
+    top: 1550px;
+    left: 730px;
+    background-color: azure;
+   }
+
+   div.tag3{
+    position: absolute;
+    top: 1750px;
+    left: 600px;
+    background-color: azure;
+   }
+
+   div.ta4{
+    position: absolute;
+    top: 1750px;
+    left: 730px;
+    background-color: azure;
+   }
+
+div.video{
+  position: absolute;
+  top:1550px;
+  left:1030px;
+  
+}
+
+div.reply{
+  position: absolute;
+  top: 2000px;
+  left: 0;
+  color:black;
+  width:100%;
+  
+}
+
+div.area{
+  position: absolute;
+  top: 2010px;
+  left: 50px;
+  color:black;
+  width:500px;
+}
+
+#textarea{
+  width: 1200px;
+  height:170px;
+}
+
+#button1{
+  position:absolute;
+  left:1030px;
+  border:1px solid white;
+  background-color:blue;
+  color:white;
+  border-radius:25px;
+  width: 200px;
+  height:40px;
+}
+
+div.footer{
+  position:absolute;
+  top:2350px;
+  left:0;
+  width:1346px;;
+  height:500px;
+  border: 1px solid white;
+  background-color: darkblue;
+}
+
+div.l{
+  position: absolute;
+  top: 90px;
+  left: 100px;
+  
+
+  
+}
+
+div.m{
+  position: absolute;
+  top: 100px;
+  left: 500px;
+}
+
+#link:hover{
+  color: green;
+  
+  
+}
+
+#link{
+  color:white;
+  text-decoration:none;
+  
+}
+
+#p{
+  color:white;
+  font-size:30px;
+}
+
+
+div.media{
+  position: absolute;
+  top: 100px;
+  left: 900px;
+}
+
+#follow{
+  text-align: center;
+}
+
+#possible{
+  width: 200px;
+  height:50px;
+  border:1px solid white;
+  border-radius: 25px;
+  background-color:green;
+  color:white;
+}
